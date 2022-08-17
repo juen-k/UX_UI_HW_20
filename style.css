@@ -1,0 +1,162 @@
+body {
+    margin: 30px;
+}
+.sectionTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.displayContainer {
+    background-color: aliceblue;
+    width: 100%;
+    height: 80%;
+}
+.mobileCando {
+    display:flex;
+    margin-left: 1500px;
+    justify-content: center;
+}
+.jumbotron {
+    background-color: aliceblue;
+    width: 100%;
+    height: 80%;
+}
+.serviceDogs {
+    width:30%;
+    height:auto;
+    margin:300px;
+    margin:20px;
+}
+.intro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.quoteCard {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.phases {
+    width: 80%;
+    margin: 150px;
+    margin-top: 50px;
+}
+
+/*project overview*/
+.projectOverview {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:100px;
+}
+
+.sectionHeader {
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/* research */
+.affinityCard {
+    display:flex;
+    justify-content: space-between;
+}
+.affinityMap {
+    width:40%;
+    margin:200px;
+    margin-top: 20px;
+}
+.empathyCard {
+    display: flex;
+    justify-content: space-between;
+}
+.empathyMap {
+    width:50%;
+    margin:250px;
+    margin-top: 20px;
+}
+.hmwStatements {
+    margin:80px;
+}
+
+/*ideate*/
+/* .ideationCard {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}*/
+.ideationDiagram {
+    width:80%;
+    margin:250px;
+    margin-top: 20px;
+}
+/*.card-text {
+    display: inline-flex;
+}*/
+/*.userFlowCard {
+    display: flex;
+    justify-content: space-between;
+}*/
+.userFlow {
+    width: 40%;
+    height: auto;;
+}
+.sitemap {
+    width:40%;
+    margin:200px;
+    margin-top: 20px;
+}
+
+/*design*/
+/*lowfi css*/
+.deskLofi {
+    width: 40%;
+    margin-top: 30px;
+    margin: 30px;
+}
+.mobileLofi {
+    width:15%;
+    margin-bottom: 30px;
+    margin: 45px;
+}
+.deskHighfi {
+    width: 40%;
+    margin-top: 30px;
+    margin: 30px;
+}
+.mobileHighfi {
+    width:15%;
+    margin-bottom: 30px;
+    margin: 45px;
+}
+/*style guide */
+.styleGuide {
+    width:60%;
+    margin:200px;
+}
+
+/*conclusion*/
+.jumbotronFinal {
+    background-color: #DDC4D9;
+    width: 100%;
+    height: 80%;
+}
+.desktopCando {
+    width: 40%;
+    height:auto;
+    margin-top: 30px;
+    margin: 30px;
+}
+.mobileCando {
+    width:10%;
+    margin-bottom: 30px;
+    margin: 45px;
+}
+.finalContainer {
+    display: inline-block;
+    justify-content: space-between;
+}
